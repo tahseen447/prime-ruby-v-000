@@ -12,6 +12,6 @@ def prime?(number)
       return false
     end
     count +=1
-  end
   return false
+    end
 end
