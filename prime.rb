@@ -14,4 +14,5 @@ def prime?(number)
     count +=1
   return false
     end
+    return false
 end
