@@ -4,7 +4,7 @@ def prime?(number)
     return false
   end
   if number ===2
-    return false
+    return true
   end
   count = 2
   while count < number
